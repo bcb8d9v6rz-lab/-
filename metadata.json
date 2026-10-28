@@ -1,0 +1,6 @@
+{
+  "name": "우리 동네 폐의약품 지도",
+  "description": "시민과 학생을 위한 우리 동네 폐의약품 수거 장소 안내, 대화형 지도 및 올바른 약품 분리배출 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
